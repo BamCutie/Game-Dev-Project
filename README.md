@@ -12,6 +12,8 @@
   
   Prepare for an adventure that seamlessly blends gaming and history, where the fate of Stickman hangs in the balance. Dive into "Stickman Saga" and rewrite the story!
 
+  You can view the initial game play video here ( https://bit.ly/InitialProjectVideo )
+
 
 ## Table of Contents
 - [Overview](#overview)
@@ -39,6 +41,7 @@ Keys:
   - C -> Dash
   - X -> Attack (Slash)
   - v -> Attack (Shoot Projectile)
+  - H -> To show dialog for next level
 
 
 
