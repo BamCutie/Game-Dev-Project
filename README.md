@@ -12,7 +12,13 @@
   
   Prepare for an adventure that seamlessly blends gaming and history, where the fate of Stickman hangs in the balance. Dive into "Stickman Saga" and rewrite the story!
 
-  You can view the initial game play video here ( https://bit.ly/InitialProjectVideo )
+  You can view the initial game play video here ( https://bit.ly/InitialProjectVideo ). Please note that this video provides a glimpse into the game but doesn't showcase all features and environments.
+  
+Download the Full Game:
+To experience the complete game with all its features and environments, download "Stickman Saga." The initial gameplay video merely scratches the surface of the thrilling journey that awaits you.
+
+Additional Notes: 
+For technical support or inquiries, contact us at [  Stickman_Saga@gmail.com ].
 
 
 ## Table of Contents
