@@ -20,13 +20,13 @@
 
 ## Overview
 
-Stage Tutorial: 
+- Stage Tutorial: 
   - Press H to show the dialog for the next stage
   - In this stage you can try to explore the controlls and the map
 
-Stage 1: Easy level
-Stage 2: Medium level
-Stage 3: Hard level (Boss Area at Top)
+- Stage 1: Easy level
+- Stage 2: Medium level
+- Stage 3: Hard level (Boss Area at Top)
 
 ## Features
 
