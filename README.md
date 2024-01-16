@@ -17,7 +17,7 @@
 
 ## Table of Contents
 - [Overview](#overview)
-- [Features](#features)
+- [Controls](#controls)
 - [Installation](#installation)
 
 ## Overview
@@ -30,7 +30,7 @@
 - Stage 2: Medium level
 - Stage 3: Hard level (Boss Area at Top)
 
-## Features
+## Controls
 
 The main controls are
 
